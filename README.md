@@ -6,5 +6,5 @@ Others may refer to the [official website](https://www.chess.cornell.edu/macches
 
 ## Quick links
 
-- ![User Guide](https://flexxbeamline.github.io/user_guide)
-- ![GitHub Repositories](https://github.com/FlexXBeamline)
+- [User Guide](https://flexxbeamline.github.io/user_guide)
+- [GitHub Repositories](https://github.com/FlexXBeamline)
